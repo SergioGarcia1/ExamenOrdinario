@@ -1,0 +1,2 @@
+FLASK_APP=notasOrdi.py
+FLASK_DEBUG=1
